@@ -50,6 +50,7 @@ PMIT&R
 PRMITR
 prmit&r
 prmitr
+Prmit&rBadnera
 student
 cat
 dog
@@ -64,4 +65,16 @@ GAURI@123
 gauri
 gauri@123
 gauri123
+Password@123
+password@123
+password123
+password123@
+password1234
+password12345
+password123456
+password1234567
+password12345678
+password123456789
+password1234567890
+Gauri@123!!
 
